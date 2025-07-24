@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github_pat_11BS74VFQ0lSK6D10hCiLf_LTSm...@github.com/Archangel-LGXY/legaxy-backend.git
+	fetch = +refs/*:refs/*
+	mirror = true
